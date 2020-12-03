@@ -1,0 +1,26 @@
+station;addr
+Matinkylä;Suomenlahdentie 1, 02230 Espoo
+Niittykumpu;Niittykatu 2, 02200 Espoo
+Urheilupuisto;Jousenpuistonkatu 2, 02200 Espoo
+Tapiola;Merituulentie, 02100 Espoo
+Aalto-yliopisto;Otaniementie 12, 02150 Espoo
+Keilaniemi;Keilaniementie 3, 02150 Espoo
+Koivusaari;Sotkatie 11, 00200 Helsinki
+Lauttasaari;Gyldénintie 2a, 00200 Helsinki
+Ruoholahti;Itämerenkatu 14, 00180 Helsinki
+Kamppi;Kampinkuja 1, 00100 Helsinki
+Rautatientori;Kaivokatu 1a, 00100 Helsinki
+Helsingin yliopisto;Vuorikatu 12, 00100 Helsinki
+Hakaniemi;Siltasaarenkatu 7, 00530 Helsinki
+Sörnäinen;Helsinginkatu 1a, 00500 Helsinki
+Kalasatama;Hermannin rantatie 2, 00580 Helsinki
+Kulosaari;Ukko-Pekan porras 2, 00570 Helsinki
+Herttoniemi;Hiihtomäentie 13, 00810 Helsinki
+Siilitie;Siilitie 2, 00800 Helsinki
+Itäkeskus;Tallinnanaukio 2, 00930 Helsinki
+Puotila;Puotilan metrotori 4, 00950 Helsinki
+Rastila;Karavaanisilta 3, 00980 Helsinki
+Vuosaari;Valkopaadentie 2a, 00980 Helsinki
+Myllypuro;Myllyaukio 2, 00920 Helsinki
+Kontula;Kontulantie 20, 00940 Helsinki
+Mellunmäki;Pallaksentie 3, 00970 Helsinki
